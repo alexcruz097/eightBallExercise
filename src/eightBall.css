@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.eightball-container {
+  color: white;
+  padding: 6rem 2rem;
+  border-radius: 100%;
+  font-size: 23px;
+}
+.asset-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
